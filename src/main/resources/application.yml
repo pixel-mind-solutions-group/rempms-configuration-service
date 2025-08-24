@@ -1,6 +1,6 @@
 spring:
   application:
-    name: "configserver"
+    name: "rempms-configuration-service"
   profiles:
     active: git
   cloud:
